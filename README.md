@@ -27,20 +27,20 @@ Exercício individual para a matéria de inteligência artificial
 
 <p>***PARTE 2*** 
 
-<p><h3>REALIZE AS TAREFAS DA PRIMEIRA PARTE DESTE EXERCÍCIO DISPONÍVEL NA ÚLTIMA AULA;
+<p> Realize as tarefas da primeira parte deste exercício disponível na última aula
 
-<p><h3>CRIE UM SEGUNDO OBJETOS 3D DA COR AZUL;
+<p> Crie um segundo objeto 3D da cor azul
 
-<p><h3>ADICIONE O SCRIPT AICONTROL.CS NESTE NOVO OBJETO;
+<p> Adicione o script "AIControl.CS" neste novo objeto
 
-<p><h3>BLOQUEIE O ACESSO AO TÚNEL UM DOS AGENTES (AZUL OU VERMELHO);
+<p> Bloqueie o acesso ao túnel um dos agentes(Azul ou vermelho)
 
-<p><h3>CRIE UMA NOVA ROTA PARA QUE O PERSONAGEM TENHA ACESSO AO RESTO DO MAPA;
+<p> Crie uma nova rota para que o personagem tenha acesso ao resto do mapa
 
-<p><h3>CRIE INÚMEROS PERSONAGENS DA COR AZUL E VERMELHO COM AS MESMAS PROPRIEDADES;
+<p> Crie inúmeros personagens da cor azul e vermelho com as mesmas propriedades
 
-<p><h3>TESTE A MOVIMENTAÇÃO DOS PERSONAGENS PELA ÁREA QUE FOI ATRIBUIDA A MALHA DE NAVEGAÇÃO;
+<p> Teste a movimentação dos personagens pela área que foi atribuida a malha de navegação
 
-<p><h3>COMENTE OS CÓDIGOS UTILIZADOS (AICONTROL.CS E O AGENTMANAGER.CS);
+<p> Comente os códigos utilizados(AICONTROL.CS E O AGENTMANAGER.CS)
 
-<p><h3>POR FIM CRIE UM REPOSITÓRIO REMOTO (GITHUB) DO PROJETO.
+<p>Por fim crie um repositório remoto(GITHUB) do projeto
