@@ -26,7 +26,7 @@ Exercício individual para a matéria de inteligência artificial
 <p><h5>POR FIM CRIE UM REPOSITÓRIO REMOTO (GITHUB) DO PROJETO E ENVIE NESTA TAREFA O LINK DO REPOSITÓRIO.
 <p>
 <p><h3>***PARTE 2*** 
-
+<p><h5>
 <p> Realize as tarefas da primeira parte deste exercício disponível na última aula
 
 <p> Crie um segundo objeto 3D da cor azul
