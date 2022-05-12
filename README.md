@@ -5,7 +5,7 @@ Exercício individual para a matéria de inteligência artificial
   
   <p> Enuciado:
     
-   <p> ***PARTE 1*** ENTREGA 13/05/22
+   <p><h3> ***PARTE 1*** ENTREGA 13/05/22
 
 <p><h5>FAÇA O DOWNLOAD DO ARQUIVO NavMeshStationStarter.zip QUE ESTÁ NO CONTEÚDO DA AULA;
 
@@ -25,7 +25,7 @@ Exercício individual para a matéria de inteligência artificial
 
 <p><h5>POR FIM CRIE UM REPOSITÓRIO REMOTO (GITHUB) DO PROJETO E ENVIE NESTA TAREFA O LINK DO REPOSITÓRIO.
 <p>
-<p>***PARTE 2*** 
+<p><h3>***PARTE 2*** 
 
 <p> Realize as tarefas da primeira parte deste exercício disponível na última aula
 
