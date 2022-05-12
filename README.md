@@ -4,7 +4,7 @@ Exercício individual para a matéria de inteligência artificial
 
 <p><H2>Exercício individual - Estação Espacial
   
-  <p> Enuciado:
+  <p> Enunciado:
     
    <p><h3> ***PARTE 1*** ENTREGA 13/05/22
 
