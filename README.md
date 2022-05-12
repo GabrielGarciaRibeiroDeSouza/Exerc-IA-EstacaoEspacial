@@ -6,7 +6,7 @@ Exercício individual para a matéria de inteligência artificial
   
   <p> Enunciado:
     
-   <p><h3> ***PARTE 1*** ENTREGA 13/05/22
+   <p><h3> ***PARTE 1*** 
 
 <p><h5>FAÇA O DOWNLOAD DO ARQUIVO NavMeshStationStarter.zip QUE ESTÁ NO CONTEÚDO DA AULA;
 
